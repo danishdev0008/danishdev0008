@@ -46,6 +46,7 @@
  <a href="https://www.linkedin.com/in/danish-afzal-615b97388" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  
   <a href="mailto:danishafzal0008@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>

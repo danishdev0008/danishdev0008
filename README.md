@@ -31,27 +31,32 @@
 
 ## GitHub Stats
 
-![Danish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=danishdev0008&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danishdev0008&layout=compact&theme=tokyonight)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=danishdev0008&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danishdev0008&layout=compact&theme=tokyonight"/>
+</p>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=danishdev0008&theme=tokyonight)
 
 ---
 
-## 🐍 Contribution Snake
+## How to reach me
+
+<p>
+  <a href="https://www.linkedin.com/in/danishafzal">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:danishafzal0008@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## Contribution Snake
 
 ![Snake animation](https://raw.githubusercontent.com/danishdev0008/danishdev0008/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
-## LeetCode
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-danishdev13-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/danishdev13/)
-
----
-
-## 📫 How to Reach Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Danish%20Afzal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danishafzal)
-[![Gmail](https://img.shields.io/badge/Gmail-danishafzal0008@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danishafzal0008@gmail.com)
+Thanks for visiting my profile! 😊

@@ -55,6 +55,7 @@
 
 ## Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/danishdev0008/danishdev0008/output/github-contribution-grid-snake-dark.svg)]
+![Snake animation](https://raw.githubusercontent.com/danishdev0008/danishdev0008/output/github-contribution-grid-snake-dark.svg)] 
+
 
 Thanks for visiting my profile! 😊

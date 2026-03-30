@@ -28,24 +28,13 @@
 - 🌐 Sharpen problem-solving and **DSA** skills through **LeetCode** challenges daily.
 
 ---
-
-## GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=danishdev0008&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danishdev0008&layout=compact&theme=tokyonight"/>
-</p>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=danishdev0008&theme=tokyonight)
-
----
-
 ## How to reach me
 
 <p>
  <a href="https://www.linkedin.com/in/danish-afzal-615b97388" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   
   <a href="mailto:danishafzal0008@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
